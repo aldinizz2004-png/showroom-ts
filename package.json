@@ -1,0 +1,16 @@
+{
+  "name": "showroom-ts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Palestinian automotive showroom dashboard built with TypeScript and Bootstrap 5",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "api": "json-server --watch db.json --port 3000",
+    "web": "npx serve . -l 5500"
+  },
+  "devDependencies": {
+    "json-server": "0.17.4",
+    "typescript": "^5.6.0"
+  }
+}
