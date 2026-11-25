@@ -1,0 +1,388 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "brand": "Chery",
+      "model": "Tiggo 4 Pro",
+      "year": 2023,
+      "price": 18900,
+      "color": "White",
+      "status": "available",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 22000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "brand": "Chery",
+      "model": "Tiggo 7 Pro",
+      "year": 2024,
+      "price": 26500,
+      "color": "Black",
+      "status": "available",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 8000
+      },
+      "imageUrl": "",
+      "description": "Single owner, full service history at the showroom."
+    },
+    {
+      "id": 3,
+      "brand": "Chery",
+      "model": "Tiggo 8 Pro",
+      "year": 2024,
+      "price": 31200,
+      "color": "Grey",
+      "status": "reserved",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Petrol",
+        "mileage": 5000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "brand": "Chery",
+      "model": "Tiggo 8 Pro Max",
+      "year": 2025,
+      "price": 38900,
+      "color": "Blue",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Hybrid",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "brand": "Chery",
+      "model": "Arrizo 6 Pro",
+      "year": 2022,
+      "price": 16800,
+      "color": "Silver",
+      "status": "sold",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 41000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "brand": "Chery",
+      "model": "Arrizo 8",
+      "year": 2023,
+      "price": 24300,
+      "color": "White",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Petrol",
+        "mileage": 15000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "brand": "Chery",
+      "model": "Tiggo 9",
+      "year": 2025,
+      "price": 44500,
+      "color": "Black",
+      "status": "reserved",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Hybrid",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "brand": "Chery",
+      "model": "Tiggo 7 Pro",
+      "year": 2022,
+      "price": 23100,
+      "color": "Red",
+      "status": "sold",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 36000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "brand": "Chery",
+      "model": "Tiggo 4 Pro",
+      "year": 2021,
+      "price": 14900,
+      "color": "Grey",
+      "status": "available",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 58000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "brand": "Chery",
+      "model": "Arrizo 6 Pro",
+      "year": 2024,
+      "price": 19800,
+      "color": "Blue",
+      "status": "available",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 9000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "brand": "OMODA",
+      "model": "C5",
+      "year": 2023,
+      "price": 22400,
+      "color": "White",
+      "status": "available",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 19000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "brand": "OMODA",
+      "model": "C5",
+      "year": 2024,
+      "price": 24800,
+      "color": "Red",
+      "status": "reserved",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 7000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "brand": "OMODA",
+      "model": "C7",
+      "year": 2025,
+      "price": 33600,
+      "color": "Grey",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Hybrid",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": "Panoramic roof and 360 camera."
+    },
+    {
+      "id": 14,
+      "brand": "OMODA",
+      "model": "E5",
+      "year": 2024,
+      "price": 29900,
+      "color": "Green",
+      "status": "available",
+      "specs": {
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "mileage": 6000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "brand": "OMODA",
+      "model": "S5",
+      "year": 2023,
+      "price": 21700,
+      "color": "Black",
+      "status": "sold",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 24000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "brand": "OMODA",
+      "model": "OMODA 9",
+      "year": 2025,
+      "price": 47800,
+      "color": "Silver",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Hybrid",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "brand": "OMODA",
+      "model": "C5",
+      "year": 2022,
+      "price": 19600,
+      "color": "Blue",
+      "status": "sold",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 39000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "brand": "OMODA",
+      "model": "E5",
+      "year": 2025,
+      "price": 31500,
+      "color": "White",
+      "status": "reserved",
+      "specs": {
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "brand": "JAECOO",
+      "model": "J7",
+      "year": 2024,
+      "price": 32800,
+      "color": "Green",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Petrol",
+        "mileage": 6000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 20,
+      "brand": "JAECOO",
+      "model": "J7",
+      "year": 2023,
+      "price": 29400,
+      "color": "Black",
+      "status": "reserved",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Petrol",
+        "mileage": 21000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "brand": "JAECOO",
+      "model": "J8",
+      "year": 2025,
+      "price": 42900,
+      "color": "Grey",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Hybrid",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "brand": "JAECOO",
+      "model": "J6",
+      "year": 2025,
+      "price": 36700,
+      "color": "White",
+      "status": "available",
+      "specs": {
+        "transmission": "Automatic",
+        "fuelType": "Electric",
+        "mileage": 0
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "brand": "JAECOO",
+      "model": "J5",
+      "year": 2023,
+      "price": 23900,
+      "color": "Orange",
+      "status": "sold",
+      "specs": {
+        "transmission": "CVT",
+        "fuelType": "Petrol",
+        "mileage": 27000
+      },
+      "imageUrl": "",
+      "description": ""
+    },
+    {
+      "id": 24,
+      "brand": "JAECOO",
+      "model": "J8",
+      "year": 2024,
+      "price": 40200,
+      "color": "Silver",
+      "status": "available",
+      "specs": {
+        "transmission": "DCT",
+        "fuelType": "Hybrid",
+        "mileage": 11000
+      },
+      "imageUrl": "",
+      "description": ""
+    }
+  ]
+}
